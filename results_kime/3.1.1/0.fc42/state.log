@@ -1,0 +1,308 @@
+2025-11-10 23:00:18,965 - Mock Version: 6.5
+2025-11-10 23:00:18,982 - Start(bootstrap): chroot init
+2025-11-10 23:00:19,023 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:00:19,023 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:00:19,569 - Finish(bootstrap): chroot init
+2025-11-10 23:00:19,577 - Start: chroot init
+2025-11-10 23:00:19,609 - Start: unpacking root cache
+2025-11-10 23:00:20,167 - Finish: unpacking root cache
+2025-11-10 23:00:20,174 - Start: cleaning package manager metadata
+2025-11-10 23:00:20,175 - Finish: cleaning package manager metadata
+2025-11-10 23:00:20,807 - Start: dnf5 update
+2025-11-10 23:00:31,087 - Finish: dnf5 update
+2025-11-10 23:00:31,637 - Finish: chroot init
+2025-11-10 23:00:31,640 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:00:31,643 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:00:31,758 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:00:31,759 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:00:31,764 - Start: clean chroot
+2025-11-10 23:00:35,169 - Finish: clean chroot
+2025-11-10 23:01:08,259 - Mock Version: 6.5
+2025-11-10 23:01:08,280 - Start(bootstrap): chroot init
+2025-11-10 23:01:08,336 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:01:08,336 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:01:08,936 - Finish(bootstrap): chroot init
+2025-11-10 23:01:08,945 - Start: chroot init
+2025-11-10 23:01:08,978 - Start: unpacking root cache
+2025-11-10 23:01:09,526 - Finish: unpacking root cache
+2025-11-10 23:01:09,533 - Start: cleaning package manager metadata
+2025-11-10 23:01:09,534 - Finish: cleaning package manager metadata
+2025-11-10 23:01:10,197 - Start: dnf5 update
+2025-11-10 23:01:16,369 - Finish: dnf5 update
+2025-11-10 23:01:16,923 - Finish: chroot init
+2025-11-10 23:01:16,927 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:01:16,930 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:01:17,033 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:01:17,033 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:01:17,038 - Start: clean chroot
+2025-11-10 23:01:20,511 - Finish: clean chroot
+2025-11-10 23:02:51,724 - Mock Version: 6.5
+2025-11-10 23:02:51,743 - Start(bootstrap): chroot init
+2025-11-10 23:02:51,800 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:02:51,800 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:03:26,969 - Start(bootstrap): creating root cache
+2025-11-10 23:03:27,693 - Finish(bootstrap): creating root cache
+2025-11-10 23:03:27,695 - Finish(bootstrap): chroot init
+2025-11-10 23:03:27,707 - Start: chroot init
+2025-11-10 23:03:27,753 - Start: cleaning package manager metadata
+2025-11-10 23:03:27,753 - Finish: cleaning package manager metadata
+2025-11-10 23:03:28,359 - Start: installing minimal buildroot with dnf5
+2025-11-10 23:04:18,544 - Finish: installing minimal buildroot with dnf5
+2025-11-10 23:04:19,001 - Start: creating root cache
+2025-11-10 23:04:19,728 - Finish: creating root cache
+2025-11-10 23:04:19,730 - Finish: chroot init
+2025-11-10 23:04:20,027 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:04:20,030 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:06:20,370 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:06:20,372 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:06:25,079 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:06:25,079 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:06:25,083 - Start: clean chroot
+2025-11-10 23:06:30,179 - Finish: clean chroot
+2025-11-10 23:09:12,074 - Mock Version: 6.5
+2025-11-10 23:09:12,091 - Start(bootstrap): chroot init
+2025-11-10 23:09:12,176 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:09:12,176 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:09:12,707 - Finish(bootstrap): chroot init
+2025-11-10 23:09:12,715 - Start: chroot init
+2025-11-10 23:09:12,747 - Start: unpacking root cache
+2025-11-10 23:09:13,899 - Finish: unpacking root cache
+2025-11-10 23:09:13,907 - Start: cleaning package manager metadata
+2025-11-10 23:09:13,908 - Finish: cleaning package manager metadata
+2025-11-10 23:09:14,540 - Start: dnf5 update
+2025-11-10 23:09:19,166 - Finish: dnf5 update
+2025-11-10 23:09:19,720 - Finish: chroot init
+2025-11-10 23:09:19,723 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:09:19,726 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:09:31,082 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:09:31,083 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:09:34,986 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:09:34,986 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:09:34,990 - Start: clean chroot
+2025-11-10 23:09:40,050 - Finish: clean chroot
+2025-11-10 23:10:30,669 - Mock Version: 6.5
+2025-11-10 23:10:30,687 - Start(bootstrap): chroot init
+2025-11-10 23:10:30,776 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:10:30,776 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:10:31,330 - Finish(bootstrap): chroot init
+2025-11-10 23:10:31,339 - Start: chroot init
+2025-11-10 23:10:31,370 - Start: unpacking root cache
+2025-11-10 23:10:32,438 - Finish: unpacking root cache
+2025-11-10 23:10:32,446 - Start: cleaning package manager metadata
+2025-11-10 23:10:32,447 - Finish: cleaning package manager metadata
+2025-11-10 23:10:33,075 - Start: dnf5 update
+2025-11-10 23:10:36,681 - Finish: dnf5 update
+2025-11-10 23:10:37,235 - Finish: chroot init
+2025-11-10 23:10:37,239 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:10:37,241 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:10:46,929 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:10:46,931 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:10:50,643 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:10:50,643 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:10:50,647 - Start: clean chroot
+2025-11-10 23:10:55,719 - Finish: clean chroot
+2025-11-10 23:11:17,022 - Mock Version: 6.5
+2025-11-10 23:11:17,040 - Start(bootstrap): chroot init
+2025-11-10 23:11:17,120 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:11:17,120 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:11:17,655 - Finish(bootstrap): chroot init
+2025-11-10 23:11:17,664 - Start: chroot init
+2025-11-10 23:11:17,696 - Start: unpacking root cache
+2025-11-10 23:11:19,866 - Finish: unpacking root cache
+2025-11-10 23:11:19,873 - Start: cleaning package manager metadata
+2025-11-10 23:11:19,874 - Finish: cleaning package manager metadata
+2025-11-10 23:11:20,517 - Start: dnf5 update
+2025-11-10 23:11:23,600 - Finish: dnf5 update
+2025-11-10 23:11:24,138 - Finish: chroot init
+2025-11-10 23:11:24,141 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:11:24,144 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:11:34,806 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:11:34,808 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:11:39,984 - Start: Outputting list of installed packages
+2025-11-10 23:11:40,288 - Finish: Outputting list of installed packages
+2025-11-10 23:11:40,687 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:11:40,687 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:11:40,692 - Start: clean chroot
+2025-11-10 23:11:45,901 - Finish: clean chroot
+2025-11-10 23:12:16,248 - Mock Version: 6.5
+2025-11-10 23:12:16,268 - Start(bootstrap): chroot init
+2025-11-10 23:12:16,356 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:12:16,357 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:12:16,894 - Finish(bootstrap): chroot init
+2025-11-10 23:12:16,903 - Start: chroot init
+2025-11-10 23:12:16,934 - Start: unpacking root cache
+2025-11-10 23:12:18,064 - Finish: unpacking root cache
+2025-11-10 23:12:18,071 - Start: cleaning package manager metadata
+2025-11-10 23:12:18,072 - Finish: cleaning package manager metadata
+2025-11-10 23:12:18,739 - Start: dnf5 update
+2025-11-10 23:12:21,549 - Finish: dnf5 update
+2025-11-10 23:12:22,104 - Finish: chroot init
+2025-11-10 23:12:22,108 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:12:22,110 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:12:33,753 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:12:33,754 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:12:33,759 - Start: Outputting list of installed packages
+2025-11-10 23:12:34,074 - Finish: Outputting list of installed packages
+2025-11-10 23:12:45,384 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:12:45,384 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:12:45,389 - Start: clean chroot
+2025-11-10 23:12:50,523 - Finish: clean chroot
+2025-11-10 23:14:17,192 - Mock Version: 6.5
+2025-11-10 23:14:17,209 - Start(bootstrap): chroot init
+2025-11-10 23:14:17,293 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:14:17,293 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:14:17,860 - Finish(bootstrap): chroot init
+2025-11-10 23:14:17,869 - Start: chroot init
+2025-11-10 23:14:17,901 - Start: unpacking root cache
+2025-11-10 23:14:19,044 - Finish: unpacking root cache
+2025-11-10 23:14:19,051 - Start: cleaning package manager metadata
+2025-11-10 23:14:19,052 - Finish: cleaning package manager metadata
+2025-11-10 23:14:19,679 - Start: dnf5 update
+2025-11-10 23:14:25,556 - Finish: dnf5 update
+2025-11-10 23:14:26,114 - Finish: chroot init
+2025-11-10 23:14:26,118 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:14:26,120 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:14:35,440 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:14:35,442 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:14:35,447 - Start: Outputting list of installed packages
+2025-11-10 23:14:35,759 - Finish: Outputting list of installed packages
+2025-11-10 23:14:47,263 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:14:47,263 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:14:47,269 - Start: clean chroot
+2025-11-10 23:14:52,170 - Finish: clean chroot
+2025-11-10 23:16:26,273 - Mock Version: 6.5
+2025-11-10 23:16:26,290 - Start(bootstrap): chroot init
+2025-11-10 23:16:26,373 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:16:26,373 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:16:26,898 - Finish(bootstrap): chroot init
+2025-11-10 23:16:26,906 - Start: chroot init
+2025-11-10 23:16:26,938 - Start: unpacking root cache
+2025-11-10 23:16:28,144 - Finish: unpacking root cache
+2025-11-10 23:16:28,152 - Start: cleaning package manager metadata
+2025-11-10 23:16:28,153 - Finish: cleaning package manager metadata
+2025-11-10 23:16:28,839 - Start: dnf5 update
+2025-11-10 23:16:34,009 - Finish: dnf5 update
+2025-11-10 23:16:34,588 - Finish: chroot init
+2025-11-10 23:16:34,592 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:16:34,595 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:16:45,270 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:16:45,271 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:16:48,568 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:16:48,568 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:16:48,571 - Start: clean chroot
+2025-11-10 23:16:53,650 - Finish: clean chroot
+2025-11-10 23:20:24,968 - Mock Version: 6.5
+2025-11-10 23:20:24,985 - Start(bootstrap): chroot init
+2025-11-10 23:20:25,064 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:20:25,065 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:20:25,612 - Finish(bootstrap): chroot init
+2025-11-10 23:20:25,620 - Start: chroot init
+2025-11-10 23:20:25,652 - Start: unpacking root cache
+2025-11-10 23:20:26,823 - Finish: unpacking root cache
+2025-11-10 23:20:26,833 - Start: cleaning package manager metadata
+2025-11-10 23:20:26,834 - Finish: cleaning package manager metadata
+2025-11-10 23:20:27,497 - Start: dnf5 update
+2025-11-10 23:20:30,844 - Finish: dnf5 update
+2025-11-10 23:20:31,403 - Finish: chroot init
+2025-11-10 23:20:31,407 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:20:31,410 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:20:41,895 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:20:41,896 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:20:45,252 - Start: Outputting list of installed packages
+2025-11-10 23:20:45,586 - Finish: Outputting list of installed packages
+2025-11-10 23:20:56,903 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:20:56,903 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:20:56,908 - Start: clean chroot
+2025-11-10 23:21:02,157 - Finish: clean chroot
+2025-11-10 23:22:31,493 - Mock Version: 6.5
+2025-11-10 23:22:31,509 - Start(bootstrap): chroot init
+2025-11-10 23:22:31,592 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:22:31,592 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:22:32,122 - Finish(bootstrap): chroot init
+2025-11-10 23:22:32,131 - Start: chroot init
+2025-11-10 23:22:32,162 - Start: unpacking root cache
+2025-11-10 23:22:33,364 - Finish: unpacking root cache
+2025-11-10 23:22:33,371 - Start: cleaning package manager metadata
+2025-11-10 23:22:33,372 - Finish: cleaning package manager metadata
+2025-11-10 23:22:33,998 - Start: dnf5 update
+2025-11-10 23:22:37,043 - Finish: dnf5 update
+2025-11-10 23:22:37,589 - Finish: chroot init
+2025-11-10 23:22:37,592 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:22:37,595 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:22:48,096 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:22:48,098 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:22:48,103 - Start: Outputting list of installed packages
+2025-11-10 23:22:48,433 - Finish: Outputting list of installed packages
+2025-11-10 23:22:48,821 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:22:48,821 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:22:48,826 - Start: clean chroot
+2025-11-10 23:22:53,485 - Finish: clean chroot
+2025-11-10 23:23:16,192 - Mock Version: 6.5
+2025-11-10 23:23:16,208 - Start(bootstrap): chroot init
+2025-11-10 23:23:16,289 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:23:16,289 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:23:16,872 - Finish(bootstrap): chroot init
+2025-11-10 23:23:16,880 - Start: chroot init
+2025-11-10 23:23:16,912 - Start: unpacking root cache
+2025-11-10 23:23:18,079 - Finish: unpacking root cache
+2025-11-10 23:23:18,086 - Start: cleaning package manager metadata
+2025-11-10 23:23:18,087 - Finish: cleaning package manager metadata
+2025-11-10 23:23:18,762 - Start: dnf5 update
+2025-11-10 23:23:22,041 - Finish: dnf5 update
+2025-11-10 23:23:22,603 - Finish: chroot init
+2025-11-10 23:23:22,607 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:23:22,609 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:23:32,760 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:23:32,763 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:23:32,773 - Start: Outputting list of installed packages
+2025-11-10 23:23:33,176 - Finish: Outputting list of installed packages
+2025-11-10 23:23:44,387 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:23:44,387 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:23:44,392 - Start: clean chroot
+2025-11-10 23:23:49,231 - Finish: clean chroot
+2025-11-10 23:31:00,768 - Mock Version: 6.5
+2025-11-10 23:31:00,789 - Start(bootstrap): chroot init
+2025-11-10 23:31:00,904 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:31:00,904 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:31:01,430 - Finish(bootstrap): chroot init
+2025-11-10 23:31:01,439 - Start: chroot init
+2025-11-10 23:31:01,475 - Start: unpacking root cache
+2025-11-10 23:31:02,601 - Finish: unpacking root cache
+2025-11-10 23:31:02,608 - Start: cleaning package manager metadata
+2025-11-10 23:31:02,609 - Finish: cleaning package manager metadata
+2025-11-10 23:31:03,245 - Start: dnf5 update
+2025-11-10 23:31:08,878 - Finish: dnf5 update
+2025-11-10 23:31:09,421 - Finish: chroot init
+2025-11-10 23:31:09,425 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:31:09,427 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:31:19,042 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:31:19,044 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:31:19,049 - Start: Outputting list of installed packages
+2025-11-10 23:31:19,377 - Finish: Outputting list of installed packages
+2025-11-10 23:31:19,758 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:31:19,758 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:31:19,763 - Start: clean chroot
+2025-11-10 23:31:24,558 - Finish: clean chroot
+2025-11-10 23:32:02,842 - Mock Version: 6.5
+2025-11-10 23:32:02,852 - Start(bootstrap): chroot init
+2025-11-10 23:32:02,897 - Start(bootstrap): cleaning package manager metadata
+2025-11-10 23:32:02,897 - Finish(bootstrap): cleaning package manager metadata
+2025-11-10 23:32:03,207 - Finish(bootstrap): chroot init
+2025-11-10 23:32:03,212 - Start: chroot init
+2025-11-10 23:32:03,230 - Start: unpacking root cache
+2025-11-10 23:32:03,851 - Finish: unpacking root cache
+2025-11-10 23:32:03,855 - Start: cleaning package manager metadata
+2025-11-10 23:32:03,856 - Finish: cleaning package manager metadata
+2025-11-10 23:32:04,246 - Start: dnf5 update
+2025-11-10 23:32:06,587 - Finish: dnf5 update
+2025-11-10 23:32:07,027 - Finish: chroot init
+2025-11-10 23:32:07,029 - Start: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:32:07,030 - Start: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:32:16,583 - Finish: build setup for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:32:16,584 - Start: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:32:16,587 - Start: Outputting list of installed packages
+2025-11-10 23:32:16,787 - Finish: Outputting list of installed packages
+2025-11-10 23:32:17,054 - Finish: rpmbuild kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:32:17,054 - Finish: build phase for kime-3.1.1-0.fc42.src.rpm
+2025-11-10 23:32:17,059 - Start: clean chroot
+2025-11-10 23:32:19,834 - Finish: clean chroot

@@ -1,0 +1,36 @@
+[package]
+name = "kime-engine-core"
+version = "2.0.0"
+authors = ["Riey <creeper844@gmail.com>"]
+edition = "2021"
+license = "GPL-3.0-or-later"
+
+[dependencies]
+kime-engine-config = { path = "../config", features = ["config-serde"] }
+kime-engine-backend = { path = "../backend" }
+kime-engine-backend-hangul = { path = "../backends/hangul" }
+kime-engine-backend-hanja = { path = "../backends/hanja", optional = true }
+kime-engine-backend-latin = { path = "../backends/latin" }
+kime-engine-backend-math = { path = "../backends/math", optional = true }
+kime-engine-backend-emoji = { path = "../backends/emoji", optional = true }
+serde_yaml = "0.9"
+parking_lot = "0.12"
+fontdb = { version = "0.11.2", features = ["fontconfig"] }
+
+[target.'cfg(unix)'.dependencies]
+xdg = "2.2.0"
+kime-run-dir = { path = "../../tools/run_dir" }
+
+[dev-dependencies]
+criterion = "0.4"
+pretty_assertions = "1.0.0"
+
+[[bench]]
+name = "call_key"
+harness = false
+
+[features]
+default = ["hanja", "math", "emoji"]
+hanja = ["dep:kime-engine-backend-hanja"]
+math = ["dep:kime-engine-backend-math"]
+emoji = ["dep:kime-engine-backend-emoji"]

@@ -1,0 +1,11 @@
+[package]
+name = "kime-engine-backend-hanja"
+version = "0.1.0"
+authors = ["Riey <creeper844@gmail.com>"]
+edition = "2021"
+license = "GPL-3.0-or-later"
+
+[dependencies]
+kime-engine-backend = { path = "../../backend" }
+kime-engine-dict = { path = "../../dict" }
+kime-engine-candidate = { path = "../../candidate" }
