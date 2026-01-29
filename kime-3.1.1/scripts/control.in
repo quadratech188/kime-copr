@@ -1,9 +1,0 @@
-Package: kime
-Version: %VER%
-Maintainer: Riey <creeper844@gmail.com>
-Description: Korean IME
-Homepage: https://github.com/Riey/kime
-Section: utils
-Priority: optional
-Architecture: %ARCH%
-Recommends: fonts-noto-cjk
