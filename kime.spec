@@ -1,6 +1,6 @@
 Name: kime
 Version: 0.0.0.0179318
-Release: 0%{?dist}
+Release: 1%{?dist}
 License: GPLv3
 Summary: Korean IME
 
@@ -82,4 +82,7 @@ install -Dm644 res/icons/64x64/* -t %{buildroot}%{_datadir}/icons/hicolor/64x64/
 %{_datadir}/icons/hicolor/64x64/apps/*
 
 %changelog
+* Fri Jan 30 2026 Quadratech188 <quadratech188@gmail.com> 0.0.0.0179318-1
+- new package built with tito
+
 %autochangelog
