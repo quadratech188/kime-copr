@@ -1,11 +1,11 @@
 Name: kime
-Version: 0.0.0.0179318
-Release: 1%{?dist}
+Version: 0.0.1.0e846e1
+Release: 0%{?dist}
 License: GPLv3
 Summary: Korean IME
 
 URL: https://github.com/Riey/kime
-Source0: %{url}/archive/0179318.tar.gz
+Source0: %{url}/archive/0e846e1.tar.gz
 
 BuildRequires: cargo
 BuildRequires: clang-devel
