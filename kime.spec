@@ -1,6 +1,6 @@
 Name: kime
 Version: 0.0.1.0e846e1
-Release: 2%{?dist}
+Release: 3%{?dist}
 License: GPLv3
 Summary: Korean IME
 
@@ -82,6 +82,9 @@ install -Dm644 res/icons/64x64/* -t %{buildroot}%{_datadir}/icons/hicolor/64x64/
 %{_datadir}/icons/hicolor/64x64/apps/*
 
 %changelog
+* Fri May 15 2026 Quadratech188 <quadratech188@gmail.com> 0.0.1.0e846e1-3
+- test: Bump tag? (quadratech188@gmail.com)
+
 * Tue Feb 03 2026 Quadratech188 <quadratech188@gmail.com> 0.0.1.0e846e1-1
 - chore: Bump to 0e846e1 (quadratech188@gmail.com)
 
