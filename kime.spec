@@ -1,6 +1,6 @@
 Name: kime
 Version: 0.0.1.0e846e1
-Release: 1%{?dist}
+Release: 2%{?dist}
 License: GPLv3
 Summary: Korean IME
 
