@@ -86,7 +86,7 @@ install -Dm644 res/icons/64x64/* -t %{buildroot}%{_datadir}/icons/hicolor/64x64/
 
 %post
 gtk-query-immodules-3.0-64
-gio-querymodules-64
+gio-querymodules-64 %{_libdir}/gtk-4.0/4.0.0/immodules
 
 %changelog
 * Sat May 16 2026 Quadratech188 <quadratech188@gmail.com> 0.0.1.0e846e1-4
