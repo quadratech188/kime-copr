@@ -15,6 +15,9 @@ BuildRequires: gtk4-devel
 BuildRequires: qt5-qtbase-private-devel
 BuildRequires: qt6-qtbase-private-devel
 
+Requires: gtk3
+Requires: glib2
+
 %description
 Copr for [kime](https://github.com/Riey/kime)
 
@@ -80,6 +83,10 @@ install -Dm644 res/icons/64x64/* -t %{buildroot}%{_datadir}/icons/hicolor/64x64/
 %{_libdir}/qt6/plugins/platforminputcontexts/libkimeplatforminputcontextplugin.so
 %{_datadir}/applications/kime.desktop
 %{_datadir}/icons/hicolor/64x64/apps/*
+
+%post
+gtk-query-immodules-3.0-64
+gio-querymodules-64
 
 %changelog
 * Fri May 15 2026 Quadratech188 <quadratech188@gmail.com> 0.0.1.0e846e1-3
