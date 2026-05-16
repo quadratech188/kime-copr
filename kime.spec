@@ -1,6 +1,6 @@
 Name: kime
 Version: 0.0.1.0e846e1
-Release: 3%{?dist}
+Release: 4%{?dist}
 License: GPLv3
 Summary: Korean IME
 
@@ -89,6 +89,9 @@ gtk-query-immodules-3.0-64
 gio-querymodules-64
 
 %changelog
+* Sat May 16 2026 Quadratech188 <quadratech188@gmail.com> 0.0.1.0e846e1-4
+- fix: Update GTK im cache (quadratech188@gmail.com)
+
 * Fri May 15 2026 Quadratech188 <quadratech188@gmail.com> 0.0.1.0e846e1-3
 - test: Bump tag? (quadratech188@gmail.com)
 
