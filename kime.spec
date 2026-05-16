@@ -85,7 +85,7 @@ install -Dm644 res/icons/64x64/* -t %{buildroot}%{_datadir}/icons/hicolor/64x64/
 %{_datadir}/icons/hicolor/64x64/apps/*
 
 %post
-gtk-query-immodules-3.0-64
+gtk-query-immodules-3.0-64 --update-cache
 gio-querymodules-64 %{_libdir}/gtk-4.0/4.0.0/immodules
 
 %changelog
