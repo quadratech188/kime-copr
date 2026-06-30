@@ -1,6 +1,6 @@
 Name: kime
 Version: 3.2.0
-Release: 1%{?dist}
+Release: 2%{?dist}
 License: GPLv3
 Summary: Korean IME
 
@@ -68,6 +68,9 @@ gtk-query-immodules-3.0-64 --update-cache
 gio-querymodules-64 %{_libdir}/gtk-4.0/4.0.0/immodules
 
 %changelog
+* Tue Jun 30 2026 Quadratech188 <quadratech188@gmail.com> 3.2.0-2
+- fix: Use new build process (quadratech188@gmail.com)
+
 * Tue Jun 30 2026 Quadratech188 <quadratech188@gmail.com> 3.2.0-1
 - 
 
